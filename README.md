@@ -1,14 +1,15 @@
-<p align="center">
-  <img width="300px" src="https://user-images.githubusercontent.com/10731096/95823103-9ce15780-0d5f-11eb-8010-1bd1b5910d4f.png">
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/vxe-gantt-nuxt">
-    <img src="https://img.shields.io/npm/v/vxe-gantt-nuxt.svg">
-  </a>
-  <a href="https://npmcharts.com/compare/vxe-gantt-nuxt?minimal=true">
-    <img src="https://img.shields.io/npm/dm/vxe-gantt-nuxt.svg">
-  </a>
-</p>
+[![github star](https://img.shields.io/github/stars/x-extends/vxe-gantt-nuxt.svg)](https://github.com/x-extends/vxe-gantt-nuxt/stargazers)
+[![gitee star](https://gitee.com/x-extends/vxe-gantt-nuxt/badge/star.svg)](https://gitee.com/x-extends/vxe-gantt-nuxt/stargazers)
+[![gitcode star](https://gitcode.com/x-extends/vxe-gantt-nuxt/star/badge.svg)](https://gitcode.com/x-extends/vxe-gantt-nuxt/stargazers)
+[![npm version](https://img.shields.io/npm/v/vxe-gantt-nuxt.svg?style=flat-square)](https://www.npmjs.com/package/vxe-gantt-nuxt)
+[![NodeJS with Webpack](https://github.com/x-extends/vxe-gantt-nuxt/actions/workflows/webpack.yml/badge.svg)](https://github.com/x-extends/vxe-gantt-nuxt/actions/workflows/webpack.yml)
+[![gzip size: JS](http://img.badgesize.io/https://unpkg.com/vxe-gantt-nuxt/lib/index.umd.min.js?compression=gzip&label=gzip%20size:%20JS)](https://unpkg.com/vxe-gantt-nuxt/lib/index.umd.min.js)
+[![npm downloads](https://img.shields.io/npm/dt/vxe-gantt-nuxt.svg?style=flat-square)](https://npm-stat.com/charts.html?package=vxe-gantt-nuxt)
+[![issues](https://img.shields.io/github/issues/x-extends/vxe-gantt-nuxt.svg)](https://github.com/x-extends/vxe-gantt-nuxt/issues)
+[![issues closed](https://img.shields.io/github/issues-closed/x-extends/vxe-gantt-nuxt.svg)](https://github.com/x-extends/vxe-gantt-nuxt/issues?q=is%3Aissue+is%3Aclosed)
+[![pull requests](https://img.shields.io/github/issues-pr/x-extends/vxe-gantt-nuxt.svg)](https://github.com/x-extends/vxe-gantt-nuxt/pulls)
+[![pull requests closed](https://img.shields.io/github/issues-pr-closed/x-extends/vxe-gantt-nuxt.svg)](https://github.com/x-extends/vxe-gantt-nuxt/pulls?q=is%3Apr+is%3Aclosed)
+[![npm license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 # Vxe Gantt Nuxt
 
