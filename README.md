@@ -27,9 +27,6 @@ npm install vxe-gantt-nuxt -D
 
 ## Configuration
 
-> [!WARNING]
-> At present, the method cannot automatically obtain the context, and you need to manually configure [installMethods](#installmethods) in the options.
-
 ```ts
 export default defineNuxtConfig({
   modules: [
@@ -37,7 +34,7 @@ export default defineNuxtConfig({
     'vxe-table-nuxt',
     'vxe-gantt-nuxt'
   ],
-  vxeBaseSetting: { /** Options */ }
+  vxeGanttSetting: { /** Options */ }
 })
 ```
 
