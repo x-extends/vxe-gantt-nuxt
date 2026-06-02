@@ -32,7 +32,7 @@ export default defineNuxtConfig({
     'vxe-gantt-nuxt'
   ],
   vxeGanttSetting: {
-    // global: false // 是否按需加载
+    // global: true // 是否全局加载，如果 false 则按需加载
   }
 })
 ```
