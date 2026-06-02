@@ -31,7 +31,9 @@ export default defineNuxtConfig({
     'vxe-table-nuxt',
     'vxe-gantt-nuxt'
   ],
-  vxeGanttSetting: { /** Options */ }
+  vxeGanttSetting: {
+    // global: false // 是否按需加载
+  }
 })
 ```
 
